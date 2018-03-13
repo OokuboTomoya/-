@@ -1,2 +1,1 @@
-aiueo
-12345
+aiueo 
